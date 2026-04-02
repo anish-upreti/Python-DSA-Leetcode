@@ -1,0 +1,10 @@
+The quick brown fox jumps over the lazy dog
+Python is a high-level programming language
+Generators are memory efficient
+This is line number four
+Learning Python iterators and generators
+Data science and machine learning are popular
+The sky is blue and the grass is green
+Coffee is the best morning beverage
+Programming requires practice and patience
+This is the tenth and final line
